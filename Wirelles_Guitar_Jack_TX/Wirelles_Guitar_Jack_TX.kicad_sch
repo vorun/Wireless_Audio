@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "f47bccba-dc68-4fed-be58-6927f0af5915")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 133.35 62.23)
+		(size 33.02 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "048eeb90-931f-4752-8fa2-475c8baf388d")
+		(property "Sheetname" "Wirelles_Guitar_Jack_TX_CODEC"
+			(at 133.35 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Wirelles_Guitar_Jack_TX_RF.kicad_sch"
+			(at 133.35 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Wirelles_Guitar_Jack_TX"
+				(path "/f47bccba-dc68-4fed-be58-6927f0af5915"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 59.69)
+		(size 33.02 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "38c2aec0-d3c7-48e1-8c10-51fd48516b43")
+		(property "Sheetname" "Wirelles_Guitar_Jack_Analog"
+			(at 63.5 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Wirelles_Guitar_Jack_TX_Analog.kicad_sch"
+			(at 63.5 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Wirelles_Guitar_Jack_TX"
+				(path "/f47bccba-dc68-4fed-be58-6927f0af5915"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.81 119.38)
+		(size 33.02 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7d9cce55-002e-41a8-b226-376052f207f4")
+		(property "Sheetname" "Wirelles_Guitar_Jack_Power"
+			(at 130.81 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Wirelles_Guitar_Jack_TX_Power.kicad_sch"
+			(at 130.81 152.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Wirelles_Guitar_Jack_TX"
+				(path "/f47bccba-dc68-4fed-be58-6927f0af5915"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 58.42)
+		(size 33.02 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d2ee3dce-d7dd-4a02-9459-9aaabda3fd34")
+		(property "Sheetname" "Wirelles_Guitar_Jack_RF"
+			(at 200.66 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Wirelles_Guitar_Jack_TX_RF.kicad_sch"
+			(at 200.66 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Wirelles_Guitar_Jack_TX"
+				(path "/f47bccba-dc68-4fed-be58-6927f0af5915"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
