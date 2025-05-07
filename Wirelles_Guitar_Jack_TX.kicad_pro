@@ -672,7 +672,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "${KICAD_USER_TEMPLATE_DIR}/Temp3.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "Schematic_PDF/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
